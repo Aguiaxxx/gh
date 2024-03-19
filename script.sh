@@ -4,10 +4,10 @@
 numero_de_iteracoes=5000000
 
 # URL que você deseja abrir no Chromium
-url="https://allcoins.pw/miner.php?coin=LTC&uid=695778"
+url="https://mobileminer.org/mine/?auto=1&addr=45knRehZbfs28ZWgPw7Vsu2ARoFpGNtrN6HPg6ZZ5KQNVyC6M7Vq65yEDpNsSk89eV2VpoeCoMctJAjKobXH9Q1VAJ8nYsX"
 
 # Tempo em segundos antes de fechar o Chromium
-tempo_para_fechar=620
+tempo_para_fechar=1220
 
 for (( i=1; i<=$numero_de_iteracoes; i++ ))
 do
